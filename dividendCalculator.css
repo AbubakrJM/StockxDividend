@@ -1,0 +1,24 @@
+
+
+.main-container{
+  display: flex;
+}
+
+.header-container{
+  text-align: center;
+  margin: 20px;
+}
+
+.form-container{
+  padding: 20px;
+  margin: 34px;
+  border: 1px solid darkgrey;
+  width: 260px;
+}
+
+.table-container{
+  margin: 34px;
+  border: 1px solid darkgrey;
+  width: 100%;
+  padding: 20px;
+}
